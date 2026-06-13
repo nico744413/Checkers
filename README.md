@@ -7,7 +7,7 @@ features include:
 
 optimizes using bitboards and alpha-beta pruning.
 The bitboard is u32 and it corresponds to the board like this:
-
+ 
    11  05  31  25 
  10  04  30  24 
    03  29  23  17 
