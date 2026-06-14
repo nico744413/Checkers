@@ -5,6 +5,8 @@ features include:
 2.HUMAN VS HUMAN  
 3.adjustable search depth (difficulty)  
 
+availiable on web at https://nero713.itch.io/checkers-ai
+
 optimizes using bitboards and alpha-beta pruning.  
 The bitboard is u32 and it corresponds to the board like this:  
  
